@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="aosp"
+           fetch="https://android.googlesource.com" />
+
+  <remote name="gnome"
+           fetch="https://github.com/jfdsmabalot" />
+          
+  <remote name="private"
+           fetch="ssh://git@github.com" />
+
+  <default revision="refs/tags/android-4.4.2_r2"
+           remote="aosp"
+           sync-c="true"
+           sync-f="true"
+           sync-j="4" />
+
+<project path="kernel/lge/hammerhead" name="kernel_hammerhead" remote="gnome" revision="master" />
+<project path="kernel/lge/mako-stock" name="kernel_mako" remote="gnome" revision="master" />
+<project path="kernel/lge/g2" name="kernel_d802" remote="gnome" revision="kk-d802" />
+<project path="kernel/lge/sts" name="AOSPAL/android_kernel_lge_hammerhead-sts" remote="github" revision="master" />
+
+</manifest>
