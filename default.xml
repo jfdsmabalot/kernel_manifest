@@ -17,5 +17,6 @@
            sync-j="4" />
 
 <project path="kernel/lge/g2" name="kernel_d802" remote="gnome" revision="kk-d802" />
+<project path="kernel/lge/g2" name="kernel_d802" remote="gnome" revision="aosp-cm" />
 
 </manifest>
