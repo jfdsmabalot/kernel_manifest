@@ -7,6 +7,9 @@
   <remote name="gnome"
            fetch="https://github.com/jfdsmabalot" />
           
+  <remote name="github"
+           fetch="git://github.com/" />
+           
   <remote name="private"
            fetch="ssh://git@github.com" />
 
