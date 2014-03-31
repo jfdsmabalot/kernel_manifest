@@ -19,7 +19,6 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="kernel/lge/g2" name="kernel_lge_msm8974" remote="gnome" revision="kk-sm49" />
 <project path="kernel" name="CyanogenMod/android_kernel_lge_msm8974" remote="github" revision="stable/cm-11.0" />
 
 </manifest>
