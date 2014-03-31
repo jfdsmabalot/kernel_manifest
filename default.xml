@@ -19,6 +19,6 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="kernel" name="CyanogenMod/android_kernel_lge_msm8974" remote="github" revision="stable/cm-11.0" />
+<project path="kernel" name="jfdsmabalot/kernel_legacy_msm8974" remote="github" revision="kitkat" />
 
 </manifest>
