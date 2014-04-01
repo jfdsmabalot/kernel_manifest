@@ -18,5 +18,6 @@
 
 <project path="kernel" name="jfdsmabalot/kernel_legacy_msm8974" remote="github" revision="kitkat" />
 <project path="MotoG" name="jfdsmabalot/kernel_moto-g" remote="github" revision="master" />
+<project path="MotoX" name="jfdsmabalot/kernel_moto-x" remote="github" revision="master" />
 
 </manifest>
