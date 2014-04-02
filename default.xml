@@ -4,8 +4,8 @@
   <remote name="aosp"
            fetch="https://android.googlesource.com" />
 
-  <remote name="gnome"
-           fetch="https://github.com/jfdsmabalot" />
+  <remote name="gihub"
+           fetch="https://github.com" />
           
   <remote name="private"
            fetch="ssh://git@github.com" />
@@ -16,6 +16,6 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="kernel/lge/g2" name="kernel_d802" remote="gnome" revision="kk-d802" />
+<project path="msm8974" name="CyanogenMod/android_kernel_lge_msm8974" remote="github" revision="stable/cm-11.0" />
 
 </manifest>
