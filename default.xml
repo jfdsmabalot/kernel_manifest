@@ -16,6 +16,6 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="exynos5410" name="CyanogenMod/android_kernel_samsung_exynos5410" remote="github" revision="stable/cm-11.0" />
+<project path="exynos5410" name="jfdsmabalot/kernel_legacy_exynos5410" remote="github" revision="exynos5410" />
 
 </manifest>
