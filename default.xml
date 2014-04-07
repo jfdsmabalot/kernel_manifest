@@ -16,6 +16,6 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="kernel" name="kernel_moto-g" remote="github" revision="master" />
+<project path="kernel" name="jfdsmabalot/kernel_moto-g" remote="github" revision="master" />
 
 </manifest>
