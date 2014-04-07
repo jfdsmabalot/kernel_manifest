@@ -3,9 +3,6 @@
 
   <remote name="aosp"
            fetch="https://android.googlesource.com" />
-
-  <remote name="gnome"
-           fetch="https://github.com/jfdsmabalot" />
           
   <remote name="github"
            fetch="git://github.com/" />
@@ -19,7 +16,6 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="kernel/lge/hammerhead" name="kernel_hammerhead" remote="gnome" revision="master" />
-<project path="kernel/lge/mako-stock" name="kernel_mako" remote="gnome" revision="master" />
+<project path="kernel" name="kernel_moto-g" remote="github" revision="master" />
 
 </manifest>
