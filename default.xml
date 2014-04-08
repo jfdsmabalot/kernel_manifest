@@ -16,6 +16,6 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="HTCM8" name="jfdsmabalot/kernel_htc_m8" remote="github" revision="master" />
+<project path="HTC" name="jfdsmabalot/kernel_sense_m8" remote="github" revision="master" />
 
 </manifest>
